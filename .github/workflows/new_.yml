@@ -21,7 +21,7 @@ jobs:
       with:
         python-version: "3.10"
    
-    - name: python applicaton
+    - name: python application
       run: |
         python pyunit1.py
     - name: Run Tests
